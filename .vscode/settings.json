@@ -1,0 +1,30 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "Assets/DinV": true,
+        "**/DinV": true,
+        "Assets/*.*": true,
+        "DinV": true,
+        "Assets/Music": true,
+        "**/Music": true,
+        "Music": true,
+        "Assets/Fonts": true,
+        "**/Fonts": true,
+        "Fonts": true,
+        "Assets/Paths": true,
+        "**/Paths": true,
+        "Paths": true,
+        "Assets/Prefab": true,
+        "**/Prefab": true,
+        "Prefab": true,
+        "Assets/Scenes": true,
+        "**/Scenes": true,
+        "Scenes": true,
+        "**/*.meta": true
+    },
+    "explorerExclude.backup": null
+}
